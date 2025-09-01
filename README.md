@@ -37,23 +37,6 @@ You can explore countries with features like **search, filter by region, sort by
 - **CSS / Custom Styling**
 - **Netlify** – Deployment.
 
----
-
-## 📂 Project Structure
-src/
-│── components/
-│ ├── CountryList.jsx
-│ ├── CountryCard.jsx
-│ ├── CountryDetails.jsx
-│ ├── UI/
-│ │ └── Loader.jsx
-│── pages/
-│ ├── Home.jsx
-│ ├── Contact.jsx
-│── App.jsx
-│── index.js
-
----
 
 ## 🚀 Getting Started
 
