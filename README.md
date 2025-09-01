@@ -49,7 +49,7 @@ cd your-repo-name
 npm install
 
 **3. Run locally**
-npm start
+npm run dev
 
 **4. Build for production**
 npm run build
