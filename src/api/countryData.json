@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "image": "../images/us.jpg",
+    "interestingFact": "The United States is one of the most influential nations in the world, known for its vast size, diversity, and global impact. Stretching from the Atlantic Ocean in the east to the Pacific Ocean in the west, it encompasses mountains, deserts, plains, and coastal regions. The U.S. is a nation of immigrants, where cultures from all over the globe have blended to form a unique society. It is home to world-renowned landmarks like the Statue of Liberty, the Grand Canyon, Yellowstone National Park, and Mount Rushmore. The U.S. has also played a key role in advancing science, technology, and innovation, being the birthplace of the internet, airplanes, and space exploration missions that landed the first humans on the moon. American universities such as Harvard, MIT, and Stanford attract students from across the globe. The country is also the epicenter of global entertainment with Hollywood, jazz, rock, and hip-hop influencing international culture. Politically, the U.S. is recognized for its democratic institutions and leadership in world affairs. Despite facing challenges such as inequality and political division, the United States continues to symbolize opportunity, resilience, and the pursuit of the American Dream."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "image": "../images/nepal.jpg",
+    "interestingFact": "Nepal is a small yet remarkable country nestled in the Himalayas between India and China. It is most famous for being home to Mount Everest, the world’s tallest mountain, which draws climbers and adventurers from across the globe. Beyond its breathtaking peaks, Nepal is also deeply spiritual, as it is the birthplace of Lord Buddha in Lumbini. The country’s culture is a blend of Hindu and Buddhist traditions, reflected in its temples, monasteries, festivals, and way of life. The Kathmandu Valley is filled with ancient palaces, stupas, and UNESCO World Heritage sites that tell stories of Nepal’s glorious past. Despite being one of the least industrialized nations, the warmth and hospitality of its people leave a lasting impression on visitors. The legendary Gurkha soldiers from Nepal are admired worldwide for their bravery and loyalty. Nepal is also a biodiversity hotspot, home to rare animals such as the snow leopard, Bengal tiger, and one-horned rhinoceros. Traditional cuisine like momo dumplings and dal bhat rice reflects its agrarian lifestyle. With stunning landscapes, rich culture, and spiritual significance, Nepal is a unique nation that embodies resilience, beauty, and peace."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "image": "../images/egypt.jpg",
+    "interestingFact": "Egypt is one of the world’s oldest civilizations, with a history that stretches back over 5,000 years. Known as the gift of the Nile, its fertile lands allowed ancient Egyptians to flourish, building monumental structures that continue to amaze the world. The Pyramids of Giza and the Great Sphinx are among the most iconic wonders of human history, showcasing incredible engineering skills. Ancient Egyptians pioneered in writing, mathematics, and medicine, leaving a legacy that influenced civilizations across the globe. Cairo, the capital, is a bustling city where Islamic culture, ancient history, and modern life meet. The Nile River remains central to Egypt’s identity, sustaining agriculture and life along its banks. Egypt is predominantly Islamic today, with beautiful mosques such as Al-Azhar standing as centers of learning. The Red Sea coast and deserts also attract tourists seeking adventure and natural beauty. Egyptian culture thrives through music, art, and storytelling that link the past with the present. Despite modern challenges, Egypt continues to be a bridge between Africa and the Middle East, carrying forward a heritage of resilience, innovation, and cultural richness."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "image": "../images/australia.jpg",
+    "interestingFact": "Australia is both a country and a continent, renowned for its unique biodiversity, stunning landscapes, and vibrant culture. It is home to the Great Barrier Reef, the largest coral reef system in the world, as well as the famous sandstone monolith Uluru, sacred to the Aboriginal people. The nation is distinguished by its diverse wildlife, including kangaroos, koalas, and platypuses found nowhere else on Earth. Aboriginal Australians have lived on the continent for more than 65,000 years, leaving behind a rich cultural heritage of art, stories, and traditions. Modern Australia is multicultural, with major cities like Sydney, Melbourne, and Brisbane offering high standards of living and dynamic cultural life. The Sydney Opera House and Harbour Bridge are iconic landmarks. Australians are known for their laid-back lifestyle, love of sports such as cricket and rugby, and passion for outdoor activities like surfing and hiking. The country has a strong economy based on mining, agriculture, education, and tourism. Challenges such as climate change and conservation remain, but Australians are committed to preserving their natural wonders. Australia embodies a mix of ancient traditions, modern achievements, and breathtaking natural beauty."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "image": "../images/brazil.jpg",
+    "interestingFact": "Brazil is the largest country in South America and the fifth largest in the world, both in area and population. It is most famous for the Amazon Rainforest, often called the lungs of the Earth, which is home to unmatched biodiversity and produces vast amounts of oxygen. Brazil is also known for the Iguazu Falls, Pantanal wetlands, and stunning Atlantic coastline with beautiful beaches. Its culture is vibrant and diverse, influenced by Portuguese, African, and Indigenous traditions. Brazil is the only Portuguese-speaking country in South America, giving it a distinct identity. The Rio Carnival is one of the largest and most colorful festivals in the world, showcasing samba music, dance, and costumes. Football (soccer) is more than a sport here—it is a national passion, with legends like Pelé, Ronaldo, and Neymar inspiring generations. Music genres such as samba and bossa nova originated in Brazil, influencing global music culture. Cities like Rio de Janeiro and São Paulo are centers of business, arts, and nightlife. Despite facing challenges of inequality and environmental issues, Brazil continues to be celebrated worldwide for its joyful spirit, creativity, and cultural richness."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67413000,
+    "image": "../images/france.jpg",
+    "interestingFact": "France is one of the most visited countries in the world, famous for its culture, cuisine, fashion, and history. Paris, its capital, is called the City of Light and is home to landmarks like the Eiffel Tower, the Louvre, and Notre-Dame Cathedral. France has long been a global center of art, philosophy, and intellectual movements, producing thinkers such as Voltaire, Descartes, and Simone de Beauvoir. French cuisine, including baguettes, croissants, and fine wines, is celebrated globally and protected as cultural heritage by UNESCO. The French Revolution of 1789 played a crucial role in shaping modern democracy and the values of liberty, equality, and fraternity. Beyond Paris, regions like Provence, Bordeaux, and the French Riviera showcase beautiful landscapes, vineyards, and Mediterranean charm. France also has a rich scientific and industrial legacy, being the birthplace of Pasteur’s discoveries and home to the world’s first hot-air balloon flight. The French language is spoken in many countries due to its colonial past, contributing to a vast cultural footprint. Today, France continues to influence global arts, diplomacy, and fashion, making it a nation where tradition and modernity coexist gracefully."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 144104080,
+    "image": "../images/russia.jpg",
+    "interestingFact": "Russia is the largest country in the world, spanning eleven time zones and covering over one-eighth of Earth’s landmass. Its vastness includes diverse landscapes such as tundra, taiga forests, mountains, and steppes. Russia has played a crucial role in world history, from the Tsarist empire to the Soviet Union and its modern-day federation. Moscow and Saint Petersburg are cultural and political centers, boasting landmarks such as the Kremlin, Red Square, and the Hermitage Museum. Russian literature has influenced the world deeply, with writers like Tolstoy, Dostoevsky, and Chekhov shaping storytelling traditions. The country is also known for its achievements in science, space exploration, and engineering, being the first to launch a human, Yuri Gagarin, into space. Traditional Russian culture includes ballet, folk music, and Orthodox Christianity, which has influenced its architecture with onion-domed churches. Russia’s climate ranges from bitterly cold Siberian winters to temperate southern regions, making it geographically diverse. Despite economic and political challenges, Russia remains a nation of resilience, rich cultural heritage, and unmatched natural beauty, symbolizing strength and endurance across centuries of history."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "image": "../images/china.jpg",
+    "interestingFact": "China is one of the world’s oldest civilizations, with a continuous history spanning more than 4,000 years. It is renowned for its inventions such as paper, gunpowder, printing, and the compass, which shaped global progress. The Great Wall, built over centuries, remains one of the most iconic structures in human history. China’s culture emphasizes philosophy, traditions, and harmony, influenced by Confucianism, Taoism, and Buddhism. The Forbidden City and the Terracotta Army reflect the grandeur of its imperial past. Today, China is the most populous nation and a global economic powerhouse, leading in manufacturing, trade, and technology. Cities like Beijing, Shanghai, and Shenzhen are hubs of innovation and modernity, while rural areas preserve age-old customs and lifestyles. Chinese cuisine, with dishes like dumplings, noodles, and Peking duck, has spread across the world. Festivals such as Chinese New Year and the Mid-Autumn Festival are celebrated with grandeur, symbolizing unity and cultural pride. China is also home to diverse natural landscapes, from the Yangtze River to the Himalayan ranges. With its balance of ancient wisdom and rapid modernization, China remains a country of enduring strength and influence."
+  },
+  {
+    "id": 9,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "image": "../images/india.jpg",
+    "interestingFact": "India is one of the world’s most diverse and historic nations, known for its vast cultural traditions, spirituality, and resilience. The land has been home to ancient civilizations like the Indus Valley and has produced legendary rulers and warriors such as Maharana Pratap, Chhatrapati Shivaji Maharaj, Sambhaji Maharaj, and Amar Singh, who fought bravely for their people and values. India’s diversity is reflected in its 22 official languages, hundreds of dialects, and countless traditions practiced across its states. Festivals such as Diwali, Holi, and Eid bring communities together in joy and celebration. India has contributed greatly to the world in mathematics, yoga, and Ayurveda, offering knowledge systems that remain relevant even today. Its landscapes range from the Himalayas in the north to tropical beaches in the south, deserts in the west, and lush forests in the east. Indian cuisine, with its spices and variety, is loved globally. The nation’s democratic framework makes it the largest democracy in the world. Despite challenges such as poverty and inequality, India continues to rise as an economic and technological leader while holding firmly to its values of unity in diversity."
+  },
+  {
+    "id": 10,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "image": "../images/japan.jpg",
+    "interestingFact": "Japan is an island nation in East Asia that harmoniously blends tradition with modernity. Known as the Land of the Rising Sun, it has a culture rooted in discipline, respect, and precision. Ancient practices such as tea ceremonies, calligraphy, and sumo wrestling coexist with cutting-edge technology, robotics, and anime culture. Tokyo, the capital, is one of the most advanced cities in the world, while Kyoto preserves shrines, temples, and traditional wooden houses that reflect Japan’s history. The country is famous for its cherry blossoms, which symbolize renewal and beauty. Japanese cuisine, including sushi, ramen, and tempura, is celebrated globally for its balance and health benefits. Japan’s resilience is remarkable, having rebuilt itself after World War II to become the world’s third-largest economy. It is also at the forefront of innovation, with companies like Toyota, Sony, and Nintendo influencing global industries. Natural beauty ranges from Mount Fuji to hot springs and coastal regions. Festivals such as Obon and Hanami reflect spiritual and cultural values. Japan remains a nation admired for its ability to innovate while honoring its timeless traditions."
+  },
+  {
+    "id": 11,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83240525,
+    "image": "../images/germany.jpg",
+    "interestingFact": "Germany is a European powerhouse, known for its rich history, culture, and economic strength. It has been central to European affairs for centuries, from the Holy Roman Empire to the Reformation, and from industrial revolutions to modern innovation. Berlin, its capital, symbolizes resilience, having been divided during the Cold War and later reunited. Germany is home to world-renowned philosophers like Kant, Nietzsche, and Hegel, whose ideas shaped global thought. It is also celebrated for contributions in music, with composers like Beethoven and Bach. German engineering is recognized worldwide, with brands like BMW, Mercedes-Benz, and Volkswagen leading in innovation. The country is also known for Oktoberfest, traditional food like sausages and pretzels, and a strong beer culture. Its landscapes include the Black Forest, the Alps, and the Rhine River, offering both natural beauty and folklore inspiration. Germany plays a leading role in the European Union, championing sustainability, renewable energy, and economic policies. Despite its complex past, including the World Wars, Germany has emerged as a nation dedicated to peace, democracy, and cultural exchange, making it one of the most influential countries today."
+  },
+  {
+    "id": 12,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60367477,
+    "image": "../images/italy.jpg",
+    "interestingFact": "Italy is a country where history, art, and culture come alive at every corner. Known as the cradle of the Roman Empire and the birthplace of the Renaissance, it has left an indelible mark on world civilization. Rome, the capital, is home to ancient landmarks like the Colosseum, Roman Forum, and Vatican City, where St. Peter’s Basilica and the Sistine Chapel stand as symbols of spirituality and art. Italian cuisine, with pasta, pizza, and gelato, is beloved globally, reflecting a culture of family and hospitality. Florence, Venice, and Milan each showcase unique aspects of Italian identity, from art galleries to canals and fashion houses. Italy is also home to natural wonders like the Amalfi Coast, the Dolomites, and Mount Vesuvius. The country has produced legendary artists such as Michelangelo, Leonardo da Vinci, and Raphael, whose works continue to inspire. Italian cinema, fashion, and design remain influential worldwide. Despite challenges of economic disparity, Italy’s charm lies in its ability to balance tradition with modernity, offering an enduring sense of beauty, creativity, and cultural pride that resonates across generations."
+  },
+  {
+    "id": 13,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 68207116,
+    "image": "../images/uk.jpg",
+    "interestingFact": "The United Kingdom, made up of England, Scotland, Wales, and Northern Ireland, is a nation with deep historical significance and global influence. London, its capital, is a leading financial and cultural hub, home to the British Museum, Buckingham Palace, and the Tower of London. The UK was once the heart of the British Empire, which spanned continents and shaped the modern world. Its parliamentary democracy has inspired governance systems globally. The country has produced iconic writers like Shakespeare, Dickens, and J.K. Rowling, as well as influential musicians like The Beatles and Queen. Its universities, including Oxford and Cambridge, are among the most prestigious in the world. The UK’s landscapes range from Scottish Highlands to Welsh valleys and English countryside, offering natural beauty alongside urban vibrancy. Traditions such as afternoon tea, cricket, and the monarchy reflect its cultural identity. Despite facing political changes such as Brexit, the UK continues to play a key role in global affairs, science, and technology. Its ability to adapt while preserving traditions makes it a unique and influential nation in the modern era."
+  },
+  {
+    "id": 14,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 126190788,
+    "image": "../images/mexico.jpg",
+    "interestingFact": "Mexico is a country with a vibrant culture, ancient history, and stunning natural beauty. It is the birthplace of advanced civilizations like the Maya and Aztec, whose ruins such as Chichen Itza and Teotihuacan still attract global admiration. Mexico City, the capital, is a bustling metropolis blending colonial architecture with modern skyscrapers. Mexican culture is known for its colorful festivals, including Day of the Dead, where families honor their ancestors with altars, food, and celebrations. The country is also famous for its cuisine, which includes tacos, tamales, and guacamole, recognized as part of UNESCO’s Intangible Cultural Heritage. Mexican music, from mariachi to ranchera, reflects joy and tradition. The country has rich biodiversity, from deserts in the north to tropical jungles in the south. It is also one of the world’s largest producers of silver. Mexico’s art is globally admired, with figures like Frida Kahlo and Diego Rivera leaving a legacy of creativity and social commentary. Despite challenges such as inequality and migration, Mexico continues to stand out for its warmth, resilience, and deep cultural heritage that unites past and present."
+  },
+  {
+    "id": 15,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60142978,
+    "image": "../images/southAfrica.jpg",
+    "interestingFact": "South Africa is a country of incredible diversity, often called the Rainbow Nation. It has three capital cities: Pretoria (administrative), Bloemfontein (judicial), and Cape Town (legislative). The nation’s history is marked by the struggle against apartheid, with Nelson Mandela becoming a global symbol of peace, resilience, and justice. Today, South Africa embraces its multicultural identity, with 11 official languages, a wide range of traditions, and a society that reflects African, European, and Asian influences. The land itself is breathtaking, offering natural wonders such as Table Mountain, the Cape of Good Hope, Kruger National Park, and the Drakensberg Mountains. Its wildlife includes lions, elephants, rhinos, and countless bird species, making it one of the best safari destinations in the world. Rich in natural resources, especially gold and diamonds, South Africa’s economy has historically been shaped by mining. The country’s cultural contributions include music, dance, and art, from traditional Zulu performances to global icons like Miriam Makeba and Ladysmith Black Mambazo. Its cuisine reflects its diversity with dishes like biltong, bobotie, and braai. South Africans are passionate about sports, particularly rugby, cricket, and soccer, and the nation proudly hosted the 2010 FIFA World Cup, the first held on African soil."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "InTimeTec, Sirsi Road, Jaipur"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9462-774-357"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "jatin@intimetec.com"
+  }
+]
