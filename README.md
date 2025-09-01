@@ -3,7 +3,7 @@
 A **React.js** web application that displays country information dynamically using the [REST Countries API](https://restcountries.com/).  
 You can explore countries with features like **search, filter by region, sort by name, and view detailed country info**.
 
-🔗 **Live Demo:** [View on Netlify](https://harmonious-cobbler-3b4448.netlify.app/contact)
+🔗 **Live Demo:** [View on Netlify](https://harmonious-cobbler-3b4448.netlify.app/)
 
 ---
 
